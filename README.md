@@ -1,2 +1,2 @@
 # About me
-- 🔭 Honours Computer Science Student @ UBC
+- 🔭 Software Engineer with an interest in DevOps and Security Research.
